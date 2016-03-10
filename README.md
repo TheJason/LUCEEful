@@ -1,8 +1,8 @@
 # LUCEEful
 Restful Web Service for Lucee.org
 
-# Purpose
+## Purpose
 Quickly Spin-up a RESTful API powered by Lucee.
 
-# Why?
+## Why?
 Because it's awesome, and pretty damn powerful.
